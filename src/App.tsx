@@ -1,5 +1,5 @@
 const App = () => {
-  return <div>메인 화면</div>;
+  return <div>App</div>;
 };
 
 export default App;
